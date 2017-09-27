@@ -5,18 +5,18 @@ Supplementary material and R source code for my Master of Research thesis, Expla
 ### Supplementary material
 
 <dl>
-  <dt>Table S1.csv</dt>
+  <dt>[Table S1.csv](Supplementary material/Table S1.csv)</dt>
   <dd>List of references from literature analysis in the introduction. </dd>
 
-  <dt>Table S2.csv</dt>
+  <dt>[Table S2.csv](Supplementary material/Table S2.csv)</dt>
   <dd>Specimens used in chapter 1 for morphological analysis.</dd>
 
-  <dt>Table S3.csv</dt>
+  <dt>[Table S3.csv](Supplementary material/Table S3.csv)</dt>
   <dd>Species used in chapter 1 for morphological analysis.</dd>
 
-  <dt>Table S4.csv</dt>
+  <dt>[Table S4.csv](Supplementary material/Table S4.csv)</dt>
   <dd>Specimens used in chapter 2 for behavioural analysis.</dd>
 
-  <dt>Table S5.csv</dt>
+  <dt>[Table S5.csv](Supplementary material/Table S5.csv)</dt>
   <dd>Species used in chapter 2 for behavioural analysis.</dd>
 </dl>
