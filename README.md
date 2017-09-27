@@ -4,19 +4,19 @@ Supplementary material and R source code for my Master of Research thesis, Expla
 ## Contents
 ### Supplementary material
 
-* File [Table S1.csv](Supplementary material/Table S1.csv)
+* [Table%20S1.csv](Supplementary%20material/Table%20S1.csv)
   List of references from literature analysis in the introduction. 
 
-* [Table S2.csv](Supplementary material/Table S2.csv)
+* [Table%20S2.csv](Supplementary material/Table S2.csv)
   Specimens used in chapter 1 for morphological analysis.
 
-* [Table S3.csv](Supplementary material/Table S3.csv)
+* [Table S3.csv](Supplementary%20material/Table%20S3.csv)
   Species used in chapter 1 for morphological analysis.
 
-File [TableS4.csv](Supplementarymaterial/TableS4.csv)
+* [Table S4.csv](Supplementary%20material/Table%20S4.csv)
   Specimens used in chapter 2 for behavioural analysis.
 
-[Table_S5.csv](Supplementary_material/Table_S5.csv)
+* [Table S5.csv](Supplementary%20material/Table%20S5.csv)
   Species used in chapter 2 for behavioural analysis.
 
 ### Statistical analysis
