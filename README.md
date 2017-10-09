@@ -23,8 +23,8 @@ Supplementary material and R source code for my Master of Research thesis, Expla
 
 Contains R source code for analyses from chapters 1 and 2.
 
-[morphometrics.r](Statistical analysis/morphometrics.r), function doAnalysis() is the entry point for morphometric analysis, chapter 1. It is automatically run when the file is sourced from the command line.
+[morphometrics.r](Statistical%20analysis/morphometrics.r), function doAnalysis() is the entry point for morphometric analysis, chapter 1. It is automatically run when the file is sourced from the command line.
 
-[motion-analysis.r](Statistical analysis/motion-analysis.r), function runMotionAnalysis() is the entry point for behavioural analysis, chapter 2. It is automatically run when the file is sourced from the command line.
+[motion-analysis.r](Statistical%20analysis/motion-analysis.r), function runMotionAnalysis() is the entry point for behavioural analysis, chapter 2. It is automatically run when the file is sourced from the command line.
 
 Remaining files contain functions invoked from the two above.
